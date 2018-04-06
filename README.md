@@ -16,3 +16,6 @@ x1 = EndianSwapper::swap(x1);
 x2 = EndianSwapper::swap(x2);
 x3 = EndianSwapper::swap(x3);
 ```
+
+# Kudos to:
+https://github.com/voidah/archive
